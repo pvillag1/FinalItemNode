@@ -10,7 +10,6 @@ Source Code :https://github.com/sriya90/FinalItemNode/tree/master/CalenderWithOn
 Youtube Demo Link : https://youtu.be/6LvTcliHhb0
 
 
-
 Application deployed in heroku and using mongo cloud
 **Calendar Application**
 
@@ -27,6 +26,7 @@ Application deployed in heroku and using mongo cloud
 * The video presentation must not exceed 5 minutes
 * The video presentation must cover all the completed features of your application
 * The video presentation must be uploaded to Youtube and the link must accompany your code deliverable.
+
 
 
 **Submit your application + presentation + team assessment before the deadline. 12/4 @ 6:25PM**
